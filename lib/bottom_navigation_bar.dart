@@ -2,7 +2,7 @@ import 'package:delivery_app/constans/texts.dart';
 import 'package:delivery_app/view/dashboard.dart';
 import 'package:delivery_app/view/parcel.dart';
 import 'package:delivery_app/view/payment.dart';
-import 'package:delivery_app/view/profile.dart';
+import 'package:delivery_app/view/profile/profile.dart';
 import 'package:flutter/material.dart';
 
 import 'constans/colors.dart';

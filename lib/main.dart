@@ -1,4 +1,4 @@
-import 'package:delivery_app/view/splash.dart';
+import 'package:delivery_app/view/forget_password.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      home: Splash(),
+      home: ForgetPassword(),
     );
   }
 }
